@@ -2,6 +2,6 @@
 #include <stdio.h>
 int main(void)
 {
-    string name = get_string("What's tour name? ");
+    tring name = get_string("What's tour name? ");
     printf("olá, %s", name);
 }
